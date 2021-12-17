@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/tab1Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_1"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/tab2Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_2"
+        app:showAsAction="always" />
+        
+    <item
+        android:id="@+id/tab3Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_3"
+        app:showAsAction="always" />
+        
+        <item
+        android:id="@+id/tab4Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_4"
+        app:showAsAction="always" />
+        
+    <item
+        android:id="@+id/tab5Fragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/tab_5"
+        app:showAsAction="always" />
+        
+</menu>

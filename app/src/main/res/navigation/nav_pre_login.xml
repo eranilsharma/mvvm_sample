@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools" android:id="@+id/navigation_pre_login"
+            app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.mvvm.mvvmandroid.ui.splash.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" />
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.mvvm.mvvmandroid.ui.login.LoginFragment"
+        android:label="login_fragment"
+        tools:layout="@layout/login_fragment" />
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.mvvm.mvvmandroid.ui.register.RegisterFragment"
+        android:label="register_fragment"
+        tools:layout="@layout/register_fragment" />
+    <fragment
+        android:id="@+id/forgotPwdFragment"
+        android:name="com.mvvm.mvvmandroid.ui.forgotpwd.ForgotPwdFragment"
+        android:label="forgot_pwd_fragment"
+        tools:layout="@layout/forgot_pwd_fragment" /><action android:id="@+id/action_global_loginFragment" app:destination="@id/loginFragment"/>
+</navigation>

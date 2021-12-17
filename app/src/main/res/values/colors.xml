@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Universal Toolbar Colors -->
+    <color name="colorToolBarTint">@android:color/white</color>
+
+    <!-- Bottom Bar Colors -->
+    <color name="bottomBarActiveColor">@color/colorPrimary</color>
+    <color name="bottomBarDisableColor">#e5e5e5</color>
+    <color name="bottomBarBackgroundColor">@android:color/white</color>
+</resources>

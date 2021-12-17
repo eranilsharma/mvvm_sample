@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/JennyCraig New/app/src/main/res/layout/fragment_splash.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/JennyCraig New/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/JennyCraig New/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2564814814814815" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/drawable-v24/ic_home.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/activity_dashboard.xml" value="0.31384615384615383" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/activity_pre_login.xml" value="0.151268115942029" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/app_toolbar_with_back.xml" value="0.536" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/forgot_pwd_fragment.xml" value="0.259375" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/fragment_login.xml" value="0.3046875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/fragment_splash.xml" value="0.259375" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/layout_pic_bottom_sheet.xml" value="0.259375" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/login_fragment.xml" value="0.4696853415195702" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/register_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/tab1_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/tab2_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/tab3_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/tab4_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/layout/tab5_fragment.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/menu/menu_dashboard.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/app-template/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.33489583333333334" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/jc-new/app/src/main/res/layout/activity_dashboard.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/jc-new/app/src/main/res/layout/app_toolbar_with_back.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/jc-new/app/src/main/res/layout/fragment_splash.xml" value="0.31875" />
+        <entry key="..\:/Users/Satnam Singh/AndroidStudioProjects/jc-new/app/src/main/res/layout/login_fragment.xml" value="0.31875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

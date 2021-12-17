@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_post_login"
+    app:startDestination="@id/tab1Fragment">
+
+    <fragment
+        android:id="@+id/tab1Fragment"
+        android:name="com.mvvm.mvvmandroid.ui.tab_1.Tab1Fragment"
+        android:label="tab1_fragment"
+        tools:layout="@layout/tab1_fragment" />
+    <fragment
+        android:id="@+id/tab2Fragment"
+        android:name="com.mvvm.mvvmandroid.ui.tab_2.Tab2Fragment"
+        android:label="tab2_fragment"
+        tools:layout="@layout/tab2_fragment" />
+    <fragment
+        android:id="@+id/tab3Fragment"
+        android:name="com.mvvm.mvvmandroid.ui.tab_3.Tab3Fragment"
+        android:label="tab3_fragment"
+        tools:layout="@layout/tab3_fragment" />
+    <fragment
+        android:id="@+id/tab4Fragment"
+        android:name="com.mvvm.mvvmandroid.ui.tab_4.Tab4Fragment"
+        android:label="tab4_fragment"
+        tools:layout="@layout/tab4_fragment" />
+    <fragment
+        android:id="@+id/tab5Fragment"
+        android:name="com.mvvm.mvvmandroid.ui.tab_5.Tab5Fragment"
+        android:label="tab5_fragment"
+        tools:layout="@layout/tab5_fragment" />
+</navigation>
