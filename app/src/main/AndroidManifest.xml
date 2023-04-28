@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:dist="http://schemas.android.com/apk/distribution"
-    package="com.mvvm.mvvmandroid">
+    package="com.sharma.ankitapp">
 
     <dist:module dist:instant="true" />
 
     <application
-        android:name="com.mvvm.mvvmandroid.core.BaseApp"
+
+        android:name="com.sharma.ankitapp.core.BaseApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -15,8 +16,8 @@
         android:usesCleartextTraffic="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.mvvm.mvvmandroid.ui.PreLoginActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:name="com.sharma.ankitapp.ui.PreLoginActivity"
+            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,8 +25,8 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.mvvm.mvvmandroid.ui.DashBoardActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            android:name="com.sharma.ankitapp.ui.DashBoardActivity"
+            android:theme="@style/Theme.MaterialComponents.DayNight.NoActionBar">
 
         </activity>
     </application>

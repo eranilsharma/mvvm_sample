@@ -2,9 +2,9 @@
 object Versions {
 
     //BASE CONFIGS
-    const val compileSdk = 31
+    const val compileSdk = 33
     const val minSdk = 21
-    const val targetSdk = 31
+    const val targetSdk = 33
     const val versionCode = 1
     const val versionName = "1.0"
 
@@ -39,7 +39,7 @@ object Versions {
     const val room = "2.2.6"
 
     //FIREBASE
-    const val firebaseBOM = "28.1.0"
+    const val firebaseBOM = "30.3.1"
     const val firebaseAnalyticsKtx = ""
     const val firebaseMessaging = ""
 

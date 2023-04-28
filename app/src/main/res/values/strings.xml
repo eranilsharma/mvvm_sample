@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Jenny Craig</string>
+    <string name="app_name">Ankit App</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
-    <string name="tab_1">Home</string>
-    <string name="tab_2">Plan</string>
-    <string name="tab_3">Programm</string>
-    <string name="tab_4">Chat</string>
-    <string name="tab_5">Settings</string>
+    <string name="tab_1">MCQ</string>
+    <string name="tab_2">Handwritten Notes</string>
+   <!-- <string name="tab_3">Program</string>
+    <string name="tab_4">Chat</string>-->
+    <string name="tab_5">Profile</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -19,4 +19,21 @@
     <string name="invalid_username">Not a valid username</string>
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
+    <string name="enter_email">Please enter email address</string>
+    <string name="enter_valid_email">Please enter valid email address</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="enter_valid_password">Password length should be more than 5 digit</string>
+
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Do not have an account?\nClick here to sign up</string>
+    <string name="name">name</string>
+    <string name="empty_name_warning">Name can\'t be empty</string>
+    <string name="signup">Signup</string>
+    <string name="already_have_account">Already have an account?\nClick here to login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty" />
+    <string name="logout">logout</string>
+    <string name="registration">Registration</string>
 </resources>

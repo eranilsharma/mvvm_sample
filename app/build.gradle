@@ -8,9 +8,9 @@ plugins {
 
 
 android {
-    compileSdkVersion Versions.compileSdk
+    compileSdk 33
     defaultConfig {
-        applicationId "com.mvvm.mvvmandroid"
+        applicationId "com.sharma.ankitapp"
         minSdkVersion Versions.minSdk
         targetSdkVersion Versions.targetSdk
         versionCode Versions.versionCode
@@ -54,6 +54,8 @@ dependencies {
     implementation Deps.legacy
     implementation Deps.annotation
     implementation Deps.multiDex
+    implementation 'com.google.firebase:firebase-storage-ktx:20.0.1'
+    implementation 'com.google.firebase:firebase-database-ktx:20.0.4'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test:runner:1.4.0'
@@ -82,6 +84,7 @@ dependencies {
     implementation platform(Deps.bom)
     implementation Deps.analyticKtx
     implementation Deps.messaging
+    implementation Deps.auth
 
     //SDP-SSP
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
@@ -97,5 +100,8 @@ dependencies {
     implementation Deps.cognito
     implementation Deps.circleImageView
     implementation Deps.rxAndroid
+
+    apply plugin: 'com.google.gms.google-services'
+
 
 }

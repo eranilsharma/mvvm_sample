@@ -13,7 +13,7 @@
         android:icon="@drawable/ic_home"
         android:title="@string/tab_2"
         app:showAsAction="always" />
-        
+        <!--
     <item
         android:id="@+id/tab3Fragment"
         android:icon="@drawable/ic_home"
@@ -24,7 +24,7 @@
         android:id="@+id/tab4Fragment"
         android:icon="@drawable/ic_home"
         android:title="@string/tab_4"
-        app:showAsAction="always" />
+        app:showAsAction="always" />-->
         
     <item
         android:id="@+id/tab5Fragment"

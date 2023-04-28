@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.intuit.ssp:ssp-android:1.0.6@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62bd4cf5c360093e192c45e89baa8e3c/transformed/jetified-ssp-android-1.0.6/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/62bd4cf5c360093e192c45e89baa8e3c/transformed/jetified-ssp-android-1.0.6/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/62bd4cf5c360093e192c45e89baa8e3c/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55d130505ae97a7b5af0ab42d3b13268/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/55d130505ae97a7b5af0ab42d3b13268/transformed/jetified-ssp-android-1.0.6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/55d130505ae97a7b5af0ab42d3b13268/transformed/jetified-ssp-android-1.0.6/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

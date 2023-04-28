@@ -37,6 +37,7 @@ object Deps {
     const val bom = "com.google.firebase:firebase-bom:${Versions.firebaseBOM}"
     const val analyticKtx = "com.google.firebase:firebase-analytics-ktx"
     const val messaging = "com.google.firebase:firebase-messaging"
+    const val auth="com.google.firebase:firebase-auth-ktx"
 
 
     //JETPACK

@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVVM_Setup.iml" filepath="$PROJECT_DIR$/.idea/modules/MVVM_Setup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MVVM_Setup.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MVVM_Setup.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MVVM_Setup.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/MVVM_Setup.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ankit_App.iml" filepath="$PROJECT_DIR$/.idea/modules/Ankit_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Ankit_App.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ankit_App.buildSrc.test.iml" />
     </modules>
   </component>
 </project>
